@@ -20,7 +20,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="80" />&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width="80" />&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="80" />
-</p>
+ <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/antdesign/antdesign-original.svg" width="80"/>
 
 <p align="center">
   <strong>HTML5</strong>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;
@@ -29,7 +29,8 @@
   <strong>TypeScript</strong>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;
   <strong>React</strong>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;
   <strong>Redux Toolkit</strong>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;
-  <strong>Next.js</strong>
+  <strong>Next.js</strong>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;
+  <strong>Ant Design</strong>
 </p>
 
 ---
@@ -64,7 +65,7 @@
 
 | Проект | Описание | Стек | Ссылки |
 | :--- | :--- | :--- | :--- |
-| 🎬 **Video Player** | Видеоплеер с управлением через конечный автомат (FSM). | TypeScript, XState, React, Vite | [GitHub](https://github.com/DmitryBalandin/Video-Player) \| [Демо](https://video-player-zw3m.onrender.com) |
+| 🎬 **Video Player** | Видеоплеер с управлением через конечный автомат (FSM). | TypeScript, XState, React, Vite, Ant Design | [GitHub](https://github.com/DmitryBalandin/Video-Player) \| [Демо](https://video-player-zw3m.onrender.com) |
 | 💬 **Slack‑like чат** | Реалтайм-чат с регистрацией, каналами, отправкой сообщений. | JavaScript, React, Redux, Socket.io | [GitHub](https://github.com/DmitryBalandin/frontend-project-12) \| [Демо](https://frontend-project-12-oqd8.onrender.com) |
 | 📡 **RSS агрегатор** | Подписка на RSS-ленты и чтение новостей. | JavaScript, HTML, CSS | [GitHub](https://github.com/DmitryBalandin/frontend-project-11) \| [Демо](https://frontend-project-11-kappa-neon.vercel.app) |
 | 🔧 **Вычислитель отличий (CLI)** | CLI-утилита для сравнения файлов (JSON, YAML). | Node.js, JavaScript | [GitHub](https://github.com/DmitryBalandin/frontend-project-46) |
